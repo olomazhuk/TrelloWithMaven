@@ -1,0 +1,8 @@
+com\trello\Pages\SignUpPage.class
+com\trello\SignUpTest.class
+com\trello\Pages\MainPage.class
+com\trello\Pages\LoginPage.class
+com\trello\LoginTest.class
+com\trello\Pages\AtlassianLoginPage.class
+com\trello\utilities\DriverFactory.class
+com\trello\QuickSignUpTest.class
